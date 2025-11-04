@@ -5,4 +5,4 @@ preview http://himawan.atwebpages.com/
 # 2=apple (fruit, woody)
 # 3=corn (vegetable, stalky)
 # 4=berry (berry)
-harvest = 1
+harvest = 2
