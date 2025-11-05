@@ -8,4 +8,4 @@ harvest:
 4=berry (berry)
 5=flower
 harvest = 3
-grind = 0
+grind = 1
