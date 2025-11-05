@@ -6,4 +6,5 @@ harvest:
 2=apple (fruit, woody)
 3=corn (vegetable, stalky)
 4=berry (berry)
-harvest = 1
+5=flower
+harvest = 5
