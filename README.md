@@ -7,5 +7,5 @@ harvest:
 3=corn (vegetable, stalky)
 4=berry (berry)
 5=flower
-harvest = 5
+harvest = 2
 grind = 1
